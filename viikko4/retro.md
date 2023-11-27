@@ -6,4 +6,4 @@ Start, Stop, Continue, More of, Less of Wheel on lyhyt retrospektiivi, jossa arv
 
 Glad, Sad, Mad on pidempi retrospektiivi, jonka alussa kukin osallistuja kirjoittaa erillisille korteille omia huomioitaan arvioitavasta jaksosta. Tämän jälkeen kaikki kortit kiinnitetään kirjoittajan tuntemuksen perusteella valkotauluun sopivan kategorian alle: iloinen, surullinen tai vihainen. Osallistujat äänestävät keskusteltavista asioista ja jokaisesta aiheesta keskustellaan eniten ääniä saaneesta vähiten ääniä saaneeseen. Retrospektiivi pitää lopettaa viimeistään sitten, kun on kulunut yksi tunti.
 
-test changes for tag exercise...
+test changes for tag exercise... pt 2
