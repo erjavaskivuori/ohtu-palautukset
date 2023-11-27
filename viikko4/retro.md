@@ -5,5 +5,3 @@ Retrospektiivi tarkoittaa projektin tai sprintin jälkeen pidettävää kokousta
 Start, Stop, Continue, More of, Less of Wheel on lyhyt retrospektiivi, jossa arvioitavaa jaksoa käsitellään nimen mukaisten viiden kategorian kautta. Tarkoituksena on, että tiimin jäseniltä pyydetään kommentteja kaikkiin kategorioihin ja tämän jälkeen keskustella siitä, mitä muutoksia toteutetaan. 
 
 Glad, Sad, Mad on pidempi retrospektiivi, jonka alussa kukin osallistuja kirjoittaa erillisille korteille omia huomioitaan arvioitavasta jaksosta. Tämän jälkeen kaikki kortit kiinnitetään kirjoittajan tuntemuksen perusteella valkotauluun sopivan kategorian alle: iloinen, surullinen tai vihainen. Osallistujat äänestävät keskusteltavista asioista ja jokaisesta aiheesta keskustellaan eniten ääniä saaneesta vähiten ääniä saaneeseen. Retrospektiivi pitää lopettaa viimeistään sitten, kun on kulunut yksi tunti.
-
-test changes for tag exercise... pt 2
